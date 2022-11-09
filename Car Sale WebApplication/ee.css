@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: #000000;
+	margin: 0px;
+	padding: 0px;
+}
+.h1fnt{
+	color: aliceblue;
+	
+}
+.h4up{
+	color: #000000;
+	font-size: 20px;
+}
+
+.container{
+	background-image:url( "sell_images/36158791622_61f45cc57d_b.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-size: cover;
+	position: relative;
+	width: 100%;
+	height:1000px;
+}
+.overlay{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	
+}
+.header{
+	color: aliceblue;
+}
+
+.logo
+{
+	height: 70px;
+	padding: 2px 10px;
+	position: absolute;
+	width: 80px;
+	align-content: center;
+	border-radius: 50%;	
+}
+.table-1{
+	color: aliceblue;
+	background:#000000;
+	opacity: 0.6;
+
+}
+input[type=text] {
+    background-color:#FFFFFF;
+	border: #FFFFFF;
+	
+}
+
+.input--style-1 {
+  padding: 10px 0;
+  color:#000000;
+	align-content: center;
+	font-size: 18px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+
+
+.input-group{
+	 padding: 10px 0;
+  color: #000000
+}
+
+input[type=password]
+{
+ background-color:#FFFFFF;
+	border: #FFFFFF;	
+}
+
+input[type=input-group]
+{
+	 background-color:#FFFFFF;
+	border: #FFFFFF;	
+}
+
+.rs-select2 
+{
+	border: #FFFFFF;
+	
+}
+
+
+.boxr{
+	padding: 15px;
+	border: #FFFFFF;
+	font-size: 18px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+
+.btnsub{
+	padding: 10px;
+	
+}
+.nav-1{
+	padding: 20px;
+}
+.nav-btn{
+	padding: 10px;
+	cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+	width: 240px;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.0s;
+  cursor: pointer;
+}
+
+.chk{
+	color: #FFFFFF;
+font-size: 20px;
+}
+
+.tof{
+	color:#FFFFFF
+}
+
+.p3font{
+	color: #FFFFFF;
+	font-size: 19px;
+}
